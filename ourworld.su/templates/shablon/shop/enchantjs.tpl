@@ -1,1 +1,0 @@
-sum = sum + parseInt(document.getElementById('pricevalue{eid}').value);

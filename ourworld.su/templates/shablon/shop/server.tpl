@@ -1,1 +1,0 @@
-<a class="lk_menu_button" href="/shop/{title_server}">{title_server}</a>

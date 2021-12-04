@@ -1,1 +1,0 @@
-<option value="{id_server}">{title_server}</option>

@@ -1,1 +1,0 @@
-<p> {name} - {server} - {number} - {price} = {time}</p>

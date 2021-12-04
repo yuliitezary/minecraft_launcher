@@ -1,1 +1,0 @@
-<a href="/index.php?do=shopadmin&ed={ed}&server={id_server}"><button class="sh_serv_but">{title_server}</button></a>

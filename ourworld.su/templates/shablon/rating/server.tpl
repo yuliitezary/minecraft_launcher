@@ -1,1 +1,0 @@
-<a class="lk_menu_button" href="/rating/server-{id_server}">{title_server}</a>
