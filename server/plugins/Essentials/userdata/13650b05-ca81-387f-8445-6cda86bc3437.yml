@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.92.192.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638618810243
+  login: 1638618804133
+money: '0'
+last-account-name: vistik
+logoutlocation:
+  world: 104a0237-c281-4bce-8db6-8a42fa834b90
+  world-name: world
+  x: 77.87956625311207
+  y: 63.0
+  z: 237.7795269200144
+  yaw: -109.25733184814453
+  pitch: 11.549983978271484

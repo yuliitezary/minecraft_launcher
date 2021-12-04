@@ -1,0 +1,13 @@
+{
+  "address": "ws://212.22.85.129:9274/api",
+  "serverName": "OurWorld",
+  "autoloadLibraries": false,
+  "classpath": [],
+  "mainclass": "net.minecraftforge.fml.relauncher.ServerLaunchWrapper",
+  "args": [],
+  "oauthExpireTime": 0,
+  "extendedTokens": {
+    "checkServer": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNGJiZDkyMTItZDcyZS00MjFiLTg2Y2MtMDUyMWRlYmRhZGVlIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.4WYcVMs6iUph-vgcMLzfBOn_xy1VkWlUVzM2wKnbKN9p979f5OVkov5-EYwpCZgbeyp8jZ-OWZ1Q5MgoWohXzg"
+  },
+  "env": "STD"
+}
