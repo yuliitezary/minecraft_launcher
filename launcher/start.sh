@@ -1,1 +1,0 @@
-/usr/lib/jvm/java-17-openjdk-amd64/bin/java -javaagent:LaunchServer.jar -jar LaunchServer.jar;

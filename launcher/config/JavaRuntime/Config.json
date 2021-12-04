@@ -1,9 +1,0 @@
-{
-  "createAccountURL": "https://gravit.pro/createAccount.php",
-  "forgotPassURL": "https://gravit.pro/fogotPass.php",
-  "hastebinServer": "https://hastebin.com",
-  "forceDownloadJava": false,
-  "javaList": {},
-  "lazy": true,
-  "disableOfflineMode": false
-}
