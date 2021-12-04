@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.138.209.221
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638619200744
+  login: 1638618852626
+money: '0'
+last-account-name: qweqwe
+logoutlocation:
+  world: 104a0237-c281-4bce-8db6-8a42fa834b90
+  world-name: world
+  x: 346.5502456501616
+  y: 67.0
+  z: 682.4417947522855
+  yaw: 272.2346496582031
+  pitch: 77.6961898803711

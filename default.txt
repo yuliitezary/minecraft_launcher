@@ -1,0 +1,25 @@
+Установка JDK 17 на Linux (Ubuntu, Debian) // JDK для LaunchServer **с 5.2.3 версии**
+Добавьте официальный ключ GPG BellSoft и настройте репозиторий
+
+wget -q -O - https://download.bell-sw.com/pki/GPG-KEY-bellsoft | sudo apt-key add -
+echo "deb [arch=amd64] https://apt.bell-sw.com/ stable main" | sudo tee /etc/apt/sources.list.d/bellsoft.list
+
+
+Репозитории Liberica JDK содержат все архитектуры Linux, поддерживаемые в выпуске: amd64, i386, arm64, armhf. Если amd64 не является целевой архитектурой, замените его в приведенной выше команде на выбранную архитектуру.
+Обновите репозитории и установите пакет
+
+sudo apt-get update
+
+
+sudo apt-get install bellsoft-java17-full
+
+
+Установите JDK по дефолту
+
+sudo update-alternatives --config java
+
+
+
+https://onstartup.ru/java/openjfx/
+
+https://opencentr.ru/article/ustanovka-java-8-9-ubuntu/

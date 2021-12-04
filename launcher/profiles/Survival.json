@@ -1,0 +1,74 @@
+{
+  "title": "Survival",
+  "uuid": "665290e9-12b2-44e0-be57-d43253cb7c19",
+  "version": "1.12.2",
+  "info": "Информация о сервере",
+  "dir": "Survival",
+  "sortIndex": 0,
+  "assetIndex": "1.12.2",
+  "assetDir": "asset1.12.2",
+  "update": [
+    "servers.dat"
+  ],
+  "updateExclusions": [],
+  "updateShared": [],
+  "updateVerify": [
+    "libraries",
+    "natives",
+    "mods",
+    "minecraft.jar",
+    "forge.jar",
+    "liteloader.jar"
+  ],
+  "updateOptional": [],
+  "jvmArgs": [
+    "-XX:+DisableAttachMechanism",
+    "-XX:+UseG1GC",
+    "-XX:+UnlockExperimentalVMOptions",
+    "-XX:G1NewSizePercent\u003d20",
+    "-XX:MaxGCPauseMillis\u003d50",
+    "-XX:G1HeapRegionSize\u003d32M",
+    "-Dfml.ignorePatchDiscrepancies\u003dtrue",
+    "-Dfml.ignoreInvalidMinecraftCertificates\u003dtrue"
+  ],
+  "classPath": [
+    "libraries",
+    "minecraft.jar",
+    "forge.jar",
+    "liteloader.jar"
+  ],
+  "altClassPath": [],
+  "clientArgs": [
+    "--tweakClass",
+    "com.mumfrey.liteloader.launch.LiteLoaderTweaker",
+    "--tweakClass",
+    "net.minecraftforge.fml.common.launcher.FMLTweaker"
+  ],
+  "compatClasses": [],
+  "properties": {},
+  "servers": [
+    {
+      "name": "Survival",
+      "serverAddress": "212.22.85.129",
+      "serverPort": 25569,
+      "isDefault": true,
+      "socketPing": true
+    }
+  ],
+  "securityManagerConfig": "LAUNCHER",
+  "classLoaderConfig": "LAUNCHER",
+  "signedClientConfig": "NONE",
+  "runtimeInClientConfig": "NONE",
+  "recommendJavaVersion": 8,
+  "minJavaVersion": 8,
+  "maxJavaVersion": 8,
+  "warnMissJavaVersion": true,
+  "settings": {
+    "ram": 0,
+    "autoEnter": false,
+    "fullScreen": false
+  },
+  "updateFastCheck": true,
+  "limited": false,
+  "mainClass": "net.minecraft.launchwrapper.Launch"
+}

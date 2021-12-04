@@ -1,0 +1,57 @@
+2021-12-04 09:29:06.106 [Command Thread] INFO  LogHelper - Command 'syncup'
+2021-12-04 09:29:06.120 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer - Syncing profiles dir
+2021-12-04 09:29:06.122 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'OurWorld.json' profile
+2021-12-04 09:29:06.124 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'Survival.json' profile
+2021-12-04 09:29:06.125 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Profiles successfully resynced
+2021-12-04 09:29:06.125 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing updates dir
+2021-12-04 09:29:06.126 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'asset1.12.2' update dir
+2021-12-04 09:29:06.791 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'OurWorld' update dir
+2021-12-04 09:29:07.376 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'Survival' update dir
+2021-12-04 09:29:07.815 [Command Thread] DEBUG pro.gravit.launchserver.manangers.UpdatesManager - Saved 3 updates to cache
+2021-12-04 09:29:07.816 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Updates dir successfully resynced
+2021-12-04 10:28:53.866 [Command Thread] INFO  LogHelper - Command 'token server HiTech'
+2021-12-04 10:28:53.869 [Command Thread] WARN  pro.gravit.launchserver.command.service.TokenCommand - Profile HiTech not found
+2021-12-04 10:28:53.883 [Command Thread] INFO  pro.gravit.launchserver.command.service.TokenCommand - Server token HiTech authId std: eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiSGlUZWNoIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.xE4jOjE5T0Jc39LxYCwoE3choAdxDLZww7Dl4RuWvtbQSAj277hp9ttRoPxM1nzM5tBfYqwSHiO1jtWwjlL32w
+2021-12-04 10:29:18.820 [Command Thread] INFO  LogHelper - Command 'token server OurWorld'
+2021-12-04 10:29:18.824 [Command Thread] INFO  pro.gravit.launchserver.command.service.TokenCommand - Server token OurWorld authId std: eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNGJiZDkyMTItZDcyZS00MjFiLTg2Y2MtMDUyMWRlYmRhZGVlIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.gReoobSozA9SWZs6QvAzAW3EIwBbzSjtdM_LIUgx6GXKj7m5OkZchGfNZ7LzNO-1oONkj-9wfTx7Mt4bKMlkaA
+2021-12-04 10:35:02.838 [Command Thread] INFO  LogHelper - Command 'token server OurWorld'
+2021-12-04 10:35:02.848 [Command Thread] INFO  pro.gravit.launchserver.command.service.TokenCommand - Server token OurWorld authId std: eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNGJiZDkyMTItZDcyZS00MjFiLTg2Y2MtMDUyMWRlYmRhZGVlIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.fjZTJEkdTJQLq2WQnVTmbGGr4BtBdUkB1FAxQp_4yF_cK6AzA438UM3iOrkYUURqw0O6dpX10EgYr49rmdls1g
+2021-12-04 10:43:49.668 [Command Thread] INFO  LogHelper - Command 'syncup'
+2021-12-04 10:43:49.669 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer - Syncing profiles dir
+2021-12-04 10:43:49.671 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'OurWorld.json' profile
+2021-12-04 10:43:49.673 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'Survival.json' profile
+2021-12-04 10:43:49.679 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Profiles successfully resynced
+2021-12-04 10:43:49.679 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing updates dir
+2021-12-04 10:43:49.680 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'asset1.12.2' update dir
+2021-12-04 10:43:50.521 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'OurWorld' update dir
+2021-12-04 10:43:51.149 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'Survival' update dir
+2021-12-04 10:43:51.592 [Command Thread] DEBUG pro.gravit.launchserver.manangers.UpdatesManager - Saved 3 updates to cache
+2021-12-04 10:43:51.592 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Updates dir successfully resynced
+2021-12-04 10:45:56.497 [Command Thread] INFO  LogHelper - Command 'syncup'
+2021-12-04 10:45:56.498 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer - Syncing profiles dir
+2021-12-04 10:45:56.500 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'OurWorld.json' profile
+2021-12-04 10:45:56.501 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'Survival.json' profile
+2021-12-04 10:45:56.507 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Profiles successfully resynced
+2021-12-04 10:45:56.507 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing updates dir
+2021-12-04 10:45:56.507 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'asset1.12.2' update dir
+2021-12-04 10:45:57.347 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'OurWorld' update dir
+2021-12-04 10:45:58.116 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'Survival' update dir
+2021-12-04 10:45:58.528 [Command Thread] DEBUG pro.gravit.launchserver.manangers.UpdatesManager - Saved 3 updates to cache
+2021-12-04 10:45:58.528 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Updates dir successfully resynced
+2021-12-04 10:48:46.314 [nioEventLoopGroup-3-2] DEBUG pro.gravit.launchserver.socket.response.auth.JoinServerResponse - joinServer: qweqwe accessToken: 1cf472c7eca3e7c0d7423903358d3460 serverID: 18b629c9fea784586b582385c54e78b3af1bf871
+2021-12-04 10:50:27.083 [nioEventLoopGroup-3-2] DEBUG pro.gravit.launchserver.socket.response.auth.JoinServerResponse - joinServer: qweqwe accessToken: 1cf472c7eca3e7c0d7423903358d3460 serverID: 6207b44f504b7907a6f4c4851eb96074640292a8
+2021-12-04 11:08:56.102 [Command Thread] INFO  LogHelper - Command 'token server OurWorld'
+2021-12-04 11:08:56.109 [Command Thread] INFO  pro.gravit.launchserver.command.service.TokenCommand - Server token OurWorld authId std: eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNGJiZDkyMTItZDcyZS00MjFiLTg2Y2MtMDUyMWRlYmRhZGVlIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.qOfAQPlA8--UlMh0YcaniAjC8vq9YFCIy9oY8VJg7JpjLLxb9usK-ZQR9iG63dccc4R8j8UioiPGgScovWmkXQ
+2021-12-04 11:10:32.955 [Command Thread] INFO  LogHelper - Command 'token server OurWorld'
+2021-12-04 11:10:32.959 [Command Thread] INFO  pro.gravit.launchserver.command.service.TokenCommand - Server token OurWorld authId std: eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNGJiZDkyMTItZDcyZS00MjFiLTg2Y2MtMDUyMWRlYmRhZGVlIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIifQ.4WYcVMs6iUph-vgcMLzfBOn_xy1VkWlUVzM2wKnbKN9p979f5OVkov5-EYwpCZgbeyp8jZ-OWZ1Q5MgoWohXzg
+2021-12-04 12:01:26.700 [Command Thread] INFO  LogHelper - Command 'syncup'
+2021-12-04 12:01:26.701 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer - Syncing profiles dir
+2021-12-04 12:01:26.703 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'OurWorld.json' profile
+2021-12-04 12:01:26.705 [Command Thread] INFO  pro.gravit.launchserver.LaunchServer.ProfilesFileVisitor - Syncing 'Survival.json' profile
+2021-12-04 12:01:26.705 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Profiles successfully resynced
+2021-12-04 12:01:26.706 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing updates dir
+2021-12-04 12:01:26.706 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'asset1.12.2' update dir
+2021-12-04 12:01:27.261 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'OurWorld' update dir
+2021-12-04 12:01:27.820 [Command Thread] INFO  pro.gravit.launchserver.manangers.UpdatesManager - Syncing 'Survival' update dir
+2021-12-04 12:01:28.218 [Command Thread] DEBUG pro.gravit.launchserver.manangers.UpdatesManager - Saved 3 updates to cache
+2021-12-04 12:01:28.218 [Command Thread] INFO  pro.gravit.launchserver.command.hash.SyncUPCommand - Updates dir successfully resynced
